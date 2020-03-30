@@ -55,7 +55,7 @@ Las notas/acordes son reproducidos mediante la librería *SoundCipher*:
 SoundCipher.playChord(pitches, dynamic, dur);
 ```
 
-##### Reprodución y pausa
+##### Reproducción y pausa
 
 La canción se reproduce lanzando un hilo, el cual reproduce una a una cada nota de la partitura.
 
